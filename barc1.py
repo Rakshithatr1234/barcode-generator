@@ -12,5 +12,6 @@ def generate_barcode(data):
     filename = code.save("barcode")
     print("Barcode saved as:", filename)
 
-generate_barcode("2208-0522-0805")
+generate_barcode("2211-3145-6789")
+
 
